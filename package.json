@@ -1,0 +1,16 @@
+{
+  "name": "run-static-files",
+  "version": "1.0.0",
+  "description": "Run Static Files For Deployment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node server.js"
+  },
+  "author": "Bernard Iorver",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  }
+}
